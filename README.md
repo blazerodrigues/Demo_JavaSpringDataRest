@@ -2,7 +2,7 @@
 
 Spring Data Rest is used for quickly developing REST APIs using Java Spring Boot. <br/>
 It automatically exposes REST API endpoints for our Entity. <br/>
-We can skip creating the REST Controller and Service classes using Spring Data Rest, thus reducing boilerplate code and reducing development time. <br/>
+We can skip creating the REST Controller and Service implementation classes using Spring Data Rest, thus reducing boilerplate code and reducing development time. <br/>
 <br/>
 Steps: (Using 'Employee' for demo purpose)<br/>
 1. Create 'Employee' entity.<br/>
